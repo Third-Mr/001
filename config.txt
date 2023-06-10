@@ -10,7 +10,7 @@
 "user": ["oaTQI6MzwyGT0kooeANI5rh_4a2c", "oaTQI6PJVCISYwWvvnL2zshdON2Q"],
  
 # 信息配置
-# 和风天气apikey
+# 和风天气 apikey
 "weather_key": "c7b15ddcddf64109a8fd961461149215",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "武汉",
